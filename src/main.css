@@ -1,0 +1,61 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Qahiri&display=swap');
+body{
+  background-color: #bfe8e3;
+  background-image: url("./bananas.png");
+}
+.banana{
+height: 10vh;
+
+}
+.navbar-brand{
+  color:rgb(32, 36, 29);
+  text-decoration: none;
+}
+.avatar{
+  border-radius: 50%;
+  
+}
+.logo-font{
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  
+}
+.logo-color{
+  
+  color:  rgb(255, 218, 5);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.active{
+  border-bottom: 2px solid rgb(255, 218, 5);
+}
+.alert{
+  margin-bottom:0;
+}
+.project-title{
+  white-space: nowrap;
+}
+.sort-alert{
+  padding: 3px;
+}
+.no-wrap{
+  white-space: nowrap;
+}
+.front-type{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color:#badbcc;
+}
+.other-type{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color:#b6effb;
+}
+.back-front{
+  background-color: #badbcc2d;
+}
+.back-other{
+  background-color:#b6effb2c;
+}
