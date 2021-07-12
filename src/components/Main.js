@@ -3,8 +3,8 @@ const Main=()=>{
 return <>
 <Content>
     <div className="text-center">
-        <div className="d-flex align-items-center justify-content-evenly m-5">
-        <img width="187px" height="236px" src="./tr2.jpeg" className="avatar"></img>
+        <div className="d-flex align-items-center justify-content-evenly m-5 main-mobile-text">
+        <img width="187px" height="236px" src="./tr2.jpeg" className="avatar mobile-avatar"></img>
         <div className="card p-5">
         <h1>Hi! I'm Emin 👋</h1>
     <p>I'm a Jr. front-end developer.I was born in 1997 and grew up in Ankara.<br/>
@@ -14,7 +14,7 @@ return <>
         </div>
    
         
-       <div className="d-flex justify-content-between">
+       <div className="d-flex justify-content-between mobile-tech">
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -43,6 +43,7 @@ alt="html5" width="40" height="40"/></a>
 
               </div>
               </div>
+
 </Content>
 </>
 }

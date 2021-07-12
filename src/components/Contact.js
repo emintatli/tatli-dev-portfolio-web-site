@@ -4,7 +4,7 @@ return (<>
 <Content>
     
     <h1 className="text-center">Contact Details</h1>
-    <div className="text-center d-flex align-items-center justify-content-evenly">
+    <div className="text-center d-flex align-items-center justify-content-evenly mobile-projects">
 
 <a href="https://github.com/emintatli"><img width="75px" height="75px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png"></img></a>
 <a href="https://www.linkedin.com/in/m-emin-tatli-322447202/"><img width="75px" height="75px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></img></a>
