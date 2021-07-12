@@ -13,7 +13,7 @@ import Contact from "./components/Contact";
 function App() {
   return (<>
   <Router>
-  <div className="container">
+  <div className="container d-flex flex-column justify-content-center">
     <NavBar/>
    
     <Switch>
