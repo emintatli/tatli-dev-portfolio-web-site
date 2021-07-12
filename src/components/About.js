@@ -6,8 +6,8 @@ const About=()=>{
        <Content>
            <h1>About Me</h1>
         <p>I'm M. Emin TATLI,<br/>
-        I grew up in Ankara and born in 1997. Actually im a Electric Electronic enginner but i always enjoy to code so
-         i decided to make a career in coding.I hope am gonna have my Electric Electronic Enginnering Bachelor's
+        I grew up in Ankara and born in 1997. Actually im an Electric Electronic Engineer Student but i always enjoy to code so
+         i decided to make a career in coding.I hope am gonna have my Electric Electronic Engineering Bachelor's
           Degree on 09.2021 in <a href="https://sakarya.edu.tr">Sakarya University</a>. I don't have a professional 
           experience but you can check my <Link to="/projects">personal projects</Link>.I think most of them pretty good.<br/><br/>
            My coding experience started with CMD when i was just a kid. I was trying to do someting with CMD even without having an internet connection.
