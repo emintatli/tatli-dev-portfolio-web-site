@@ -7,7 +7,7 @@ return <>
         <img width="187px" height="236px" src="./tr2.jpeg" className="avatar mobile-avatar"></img>
         <div className="card p-5">
         <h1>Hi! I'm Emin 👋</h1>
-    <p>I'm a Jr. front-end developer.I was born in 1997 and grew up in Ankara.<br/>
+    <p>I'm a web developer.I was born in 1997 and grew up in Ankara.<br/>
         <b>Here is some of my coding skills:</b></p>
         </div>
 
